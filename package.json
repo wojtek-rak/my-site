@@ -1,6 +1,6 @@
 {
   "name": "mldangelo.com",
-  "homepage": "https://github.com/mldangelo/personal-site",
+  "homepage": "https://sourabhmadur.github.io",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "dev": "nodemon server/server.js --ignore app/ --ignore test/ --exec babel-node",
     "parse-routes": "node -r @babel/register parseRoutes.js",
     "predeploy": "npm run build && cp -r public/* dist/ && cp dist/index.html dist/404.html && npm run parse-routes",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -b master -d dist"
   },
   "dependencies": {
     "@babel/cli": "^7.4.4",
