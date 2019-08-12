@@ -12,7 +12,7 @@ const Index = () => (
           <p>This is my personal website with links to projects that he has done and much more.</p>
         </div>
       </header>
-      <p> Welcome to my website! Please feel free to read more. Modifying this content!!! <Link to="/about">about me</Link>,
+      <p> Welcome to my website! Please feel free to read more. <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
