@@ -13,32 +13,32 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/d',
+    link: 'https://www.facebook.com/sourabh.madur',
     label: 'Facebook',
     icon: faFacebook,
   },
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/sourabhmadur/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/sourabh-madur/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
+  // {
+  //   link: 'https://angel.co/michael-d-angelo',
+  //   label: 'Angel List',
+  //   icon: faAngellist,
+  // },
+  // {
+  //   link: 'https://twitter.com/dangelosaurus',
+  //   label: 'Twitter',
+  //   icon: faTwitter,
+  // },
   {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
-  },
-  {
-    link: 'https://twitter.com/dangelosaurus',
-    label: 'Twitter',
-    icon: faTwitter,
-  },
-  {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:sm4548@columbia.edu',
     label: 'Email',
     icon: faEnvelope,
   },
