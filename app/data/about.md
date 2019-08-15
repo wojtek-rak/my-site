@@ -1,17 +1,17 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
+I am a graduate student at Columbia University studying different areas of machine learning and software development. In my previous life(undergrad), I enjoyed working on projects in theoretical and computational physics. 
 <br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
-<br><br>
+<!-- I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently. -->
+<!-- <br><br>
 #### Currently
 At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
-<br><br>
-#### Some History
+<br><br> -->
+<!-- #### Some History -->
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+<!-- - My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did. -->
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+<!-- - We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
 
 - In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
 
@@ -66,18 +66,18 @@ Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 
 - In 2019, I plan to visit: the U.K., France, Canada, Australia, Chile, Nepal, and Norway.
 
-- I am an Oregon Trail II enthusiast.
+- I am an Oregon Trail II enthusiast. -->
 
-#### Fun Facts
+<!-- #### Fun Facts -->
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
+<!-- - I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
 - I almost always have a sketchbook with me.
 - I can't locate every country on a map.
 - I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I added this page because so many people complained that my site was just a resume.
+- I added this page because so many people complained that my site was just a resume. -->
 
-#### I dream of
+<!-- #### I dream of
 - always finding inspiration.
 - enabling a brighter future.
 - doing better.
-- no one checking my commit history for early drafts of this file.
+- no one checking my commit history for early drafts of this file. -->
