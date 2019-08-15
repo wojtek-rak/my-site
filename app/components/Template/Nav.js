@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-
 import data from '../../data/contact';
 
 const Nav = () => (
@@ -21,7 +20,7 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Sourabh. I like building things and enjoy solving problems with high impact factor.
+      <p>Hi, I&apos;m Sourabh. I like building things and enjoy extracting meaning from data.
       </p>
       <ul className="actions">
         <li>
@@ -36,7 +35,7 @@ const Nav = () => (
           <li key={s.label}><a href={s.link}><FontAwesomeIcon icon={s.icon} /></a></li>
         ))}
       </ul>
-      {/* <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p> */}
+      {/* <p className="copyright">&copy; /home/accts/lhn7/canoe/intern-project/Yolo/darknet/darknet detector test /home/accts/lhn7/canoe/intern-project/Yolo/darknet/trainBlurredTB/blurred.data /home/accts/lhn7/canoe/intern-project/Yolo/darknet/trainBlurredTB/blurred.cfg /home/accts/lhn7/canoe/intern-project/Yolo/darknet/trainBlurredTB/backup/original_best.weights -thresh 0.25 static/test.png D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p> */}
     </section>
   </section>
 );
