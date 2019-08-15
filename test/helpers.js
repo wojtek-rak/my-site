@@ -7,27 +7,27 @@ const randomString = (length) => {
 const pages = [
   {
     route: '/',
-    title: 'Michael D\'Angelo',
+    title: 'Sai Sourabh Madur',
     heading: 'ABOUT THIS SITE',
   },
   {
     route: '/about',
-    title: 'About | Michael D\'Angelo',
+    title: 'About | Sai Sourabh Madur',
     heading: 'ABOUT ME',
   },
   {
     route: '/projects',
-    title: 'Projects | Michael D\'Angelo',
+    title: 'Projects | Sai Sourabh Madur',
     heading: 'PROJECTS',
   },
   {
     route: '/stats',
-    title: 'Stats | Michael D\'Angelo',
+    title: 'Stats | Sai Sourabh Madur',
     heading: 'STATS',
   },
   {
     route: '/contact',
-    title: 'Contact | Michael D\'Angelo',
+    title: 'Contact | Sai Sourabh Madur',
     heading: 'CONTACT',
   },
 ];
