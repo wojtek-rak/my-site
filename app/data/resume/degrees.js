@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Columbia University, New York',
+    degree: 'M.S. in Electrical Engineering (with a concentration in Machine Learning and Data Driven Analysis)',
+    link: 'https://columbia.edu',
+    year: 2019,
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
+    school: 'Indian Institute of Technology, Bombay',
+    degree: 'Dual Degree(B.Tech+M.Tech) in Engineering Physics',
     link: 'https://buffalo.edu',
-    year: 2012,
+    year: 2018,
   },
 ];
 
