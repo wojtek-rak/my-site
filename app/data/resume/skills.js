@@ -8,10 +8,12 @@ export const categories = [
   }, {
     name: 'Databases',
     color: '#3896e2',
-  }, {
-    name: 'Design',
-    color: '#747fff',
-  }, {
+  }, 
+  // {
+  //   name: 'Design',
+  //   color: '#747fff',
+  // }, 
+  {
     name: 'Frameworks',
     color: '#64cb7b',
   }, {
@@ -122,7 +124,7 @@ export const skills = [
   {
     title: 'D3',
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Design', 'Javascript'],
+    category: ['Web Development', 'Frameworks', 'Javascript'],
   },
   {
     title: 'Flask',
@@ -220,26 +222,26 @@ export const skills = [
     compentency: 2,
     category: ['Languages'],
   },
-  {
-    title: 'Photoshop',
-    compentency: 3,
-    category: ['Design'],
-  },
-  {
-    title: 'Lightroom',
-    compentency: 5,
-    category: ['Design'],
-  },
-  {
-    title: 'InDesign',
-    compentency: 2,
-    category: ['Design'],
-  },
-  {
-    title: 'Wireframing',
-    compentency: 4,
-    category: ['Design', 'Web Development'],
-  },
+  // {
+  //   title: 'Photoshop',
+  //   compentency: 3,
+  //   category: ['Design'],
+  // },
+  // {
+  //   title: 'Lightroom',
+  //   compentency: 5,
+  //   category: ['Design'],
+  // },
+  // {
+  //   title: 'InDesign',
+  //   compentency: 2,
+  //   category: ['Design'],
+  // },
+  // {
+  //   title: 'Wireframing',
+  //   compentency: 4,
+  //   category: ['Design', 'Web Development'],
+  // },
   {
     title: 'Keras',
     compentency: 4,
