@@ -8,7 +8,7 @@ import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/sourabhmadur',
     label: 'Github',
     icon: faGithub,
   },
