@@ -7,7 +7,7 @@ const degrees = [
   }, {
     school: 'Indian Institute of Technology, Bombay',
     degree: 'Dual Degree(B.Tech+M.Tech) in Engineering Physics',
-    link: 'https://buffalo.edu',
+    link: 'http://www.iitb.ac.in/',
     year: 2018,
   },
 ];

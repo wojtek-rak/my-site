@@ -5,14 +5,15 @@ const courses = [
     link: 'http://www.cs.columbia.edu/~verma/classes/ml/index.html',
     univerity: 'Columbia',
   },{
-    title: 'Applied Machine Learning',
-    number: 'COMS 4995',
-    link: 'https://www.cs.columbia.edu/~amueller/comsw4995s19/',
-    univerity: 'Columbia',
-  }, {
     title: 'Algorithms and Data Structures',
     number: 'CSOR 4231',
     link: 'http://www.columbia.edu/~cs2035/courses/csor4231.F15/index.html',
+    univerity: 'Columbia',
+  }, 
+  {
+    title: 'Applied Machine Learning',
+    number: 'COMS 4995',
+    link: 'https://www.cs.columbia.edu/~amueller/comsw4995s19/',
     univerity: 'Columbia',
   }, {
     title: 'Deep Learning',
