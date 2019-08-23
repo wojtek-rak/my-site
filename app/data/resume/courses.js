@@ -69,17 +69,7 @@ const courses = [
     number: 'CS 101',
     link: '',
     univerity: 'IIT Bombay',
-  }, {
-    title: 'Design Theory and Methodology',
-    number: 'MAE 397',
-    link: 'https://web.stanford.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
-    univerity: 'Stanford',
-  }, {
-    title: 'Software Engineering Concepts',
-    number: 'CSE 442',
-    link: '',
-    univerity: 'Buffalo',
-  },  
+  }, 
 ];
 
 export default courses;
