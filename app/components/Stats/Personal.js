@@ -12,7 +12,7 @@ const PersonalStats = () => {
     setData(Object.assign({}, data, {
       age: {
         label: 'Current age',
-        value: ((Date.now() - birthTime) / divisor).toFixed(11),
+        value: 23,
       },
     }));
   };

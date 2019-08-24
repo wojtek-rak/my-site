@@ -8,9 +8,15 @@ const Job = ({ data }) => (
       <p className="daterange"> {data.daterange}</p>
     </header>
     <ul className="points">
+      
       {data.points.map(point => (
-        <li key={point}>{point}</li>
+        <li key={point}>{point}
+      
+      {point in data.subpoints? data.subpoints[point].map(subpoint => (<li key={subpoint} className='subpoint'>{subpoint}</li>))  : null }
+        </li>
+
       ))}
+    
     </ul>
   </article>
 );

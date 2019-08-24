@@ -54,7 +54,7 @@ export const skills = [
   {
     title: 'Scikit-Lean',
     compentency: 5,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science', 'Python', 'Machine Learning'],
   },
   {
     title: 'Javascript',
@@ -124,7 +124,7 @@ export const skills = [
   {
     title: 'Matlab',
     compentency: 5,
-    category: ['Data Science', 'Machine Learning', 'Languages'],
+    category: ['Data Science', 'Languages'],
   },
   // {
   //   title: 'Julia',
@@ -166,11 +166,11 @@ export const skills = [
   //   compentency: 3,
   //   category: ['Other'],
   // },
-  {
-    title: 'Data Analysis',
-    compentency: 5,
-    category: ['Data Science', 'Machine Learning'],
-  },
+  // {
+  //   title: 'Data Analysis',
+  //   compentency: 5,
+  //   category: ['Data Science', 'Machine Learning'],
+  // },
   // {
   //   title: 'Mercurial',
   //   compentency: 3,
@@ -209,6 +209,11 @@ export const skills = [
   {
     title: 'Tensorflow',
     compentency: 4,
+    category: ['Data Science', 'Machine Learning', 'Python'],
+  },
+  {
+    title: 'pytorch',
+    compentency: 3,
     category: ['Data Science', 'Machine Learning', 'Python'],
   },
   {

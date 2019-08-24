@@ -36,11 +36,6 @@ const courses = [
     link: 'http://www.columbia.edu/cu/bulletin/uwb/subj/ELEN/E6883-20191-001/',
     univerity: 'Columbia',
   },{
-    title: 'Introduction to Blockchain Technology',
-    number: 'ELEN 6883',
-    link: 'http://www.columbia.edu/cu/bulletin/uwb/subj/ELEN/E6883-20191-001/',
-    univerity: 'Columbia',
-  },{
     title: 'Probability and Random Processes',
     number: 'EE 325',
     link: 'https://www.ee.iitb.ac.in/~bsraj/courses/ee325/',

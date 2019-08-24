@@ -1,94 +1,75 @@
 
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Cofounder, C.T.O.',
-    link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    company: 'Canoe Intelligence',
+    position: 'Software Engineering/ Machine Learning Intern',
+    link: 'https://www.canoesoftware.com/',
+    daterange: 'June 2019 - August 2019',
     points: [
-      'Created a new financial product for private equity investing. Deployed models to predict the valuation of art at auction.',
-      'Lead development team, set development lifecycle, and managed analytics and web products.',
-      'Built production on-line ETL Pipelines on Kubernetes with Pandas, Postgres, and Kubeflow on GCP.',
-      'Solved end-to-end optimization problems with MCMC, Modern Portfolio Theory, GLM, etc. using Pandas, Numpy, Scikit, Theano, PyMC3, and Jupyter.',
-      'YC Alumn. Worked on everything. Built a 16-person team.',
+      'Machine Learning','Software Engineering',
     ],
-  }, {
-    company: 'Enveritas',
-    position: 'Consultant',
-    link: 'http://enveritas.org',
-    daterange: 'September 2016 - Present',
+    subpoints:{'Machine Learning':[
+      'Worked on the problem of Table Extraction from image PDF\'s, which affected 50% of the data extraction issues.', 
+      'Developed the pipeline to subsample and preprocess data from a 120GB opensource dataset.', 
+      'Trained Faster-rcc and Yolov3 object detection algorithms on the subsampled dataset combined with in-house labelled data.',
+      'Achieved a test accuracy of 86% for the Yolo model and 84% on the Faster-rcc model for models trained on subsampled data.',
+      'Created a microservice using Flask and Python to visually inspect the two models.',
+    ], 
+
+      'Software Engineering':[
+        'Developed, implemented and integrated algorithms in PHP to improve the extraction and validation of data from PDF documents. ',
+        'Worked with the Twilio API to improve the SMS notification system for clients.',
+        'Made changes to the front-end of various parts of the platform which was developed in Vue.js javascript library.',
+        'Wrote integration, unit tests and automated tests in Cypress to ensure expected behaviour of platform.'
+      ]
+      
+      },
+  
+  },
+   {
+    company: 'NB Investors Group LLC (Private Equity)',
+    position: 'Data Science Intern',
+    link: 'https://www.nbgroup.us/',
+    daterange: 'April 2019 - August 2019',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Procured data for medical spas and laser centers across 1000 US cities using the Yelp fusion API. ',
+      'Cleaned data in pandas and wrote algorithms in python for identifying businesses with same parent organization.',
+      'Analyzed review data for businesses and identified potential investments for medical spas and laser centers in United States',
     ],
-  }, {
-    company: 'Zenysis',
-    position: 'Consultant',
-    link: 'http://zenysis.com',
-    daterange: 'February 2016 - March 2016',
+    subpoints:[]
+  }, 
+  {
+    company: 'Computational Neuroscience Group, IIT Bombay',
+    position: 'Research Assistant',
+    link: 'http://compneuroiitb.in/',
+    daterange: 'July 2017 – May 2018',
     points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'Simulated the dynamics of spiking neural networks in python.',
+      'Predicted the network behavior for networks with defective cells by analyzing the data produced from simulations.',
     ],
-  }, {
-    company: 'Matroid',
-    position: 'Cofounder',
-    link: 'http://matroid.com',
-    daterange: 'July 2015 - January 2016',
-    points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
-    ],
-  }, {
-    company: 'Planet',
-    position: 'Missions Intern',
-    link: 'https://planet.com',
-    daterange: 'June 2014 - January 2015',
-    points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
-    ],
-  }, {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
-    points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  }, {
-    company: 'Facebook',
-    position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
-    points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
-    ],
-  }, {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
-    link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
-    points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
+    subpoints:[]
   },
   {
-    company: 'UB Nanosatellite Program',
-    position: 'Cofounder, Program Manager',
-    link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
+    company: 'Computational Soft Matter Physics Group, IIT Bombay',
+    position: 'Undergraduate Researcher',
+    link: 'http://www.phy.iitb.ac.in/en/research/soft-matter-biophysics-and-nonlinear-dynamics',
+    daterange: 'September 2016 – May 2017',
     points: [
-      'Coauthored grant to build a multispectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+      'Mathematically modelled biological proteins and performed Monte-Carlo simulations in python to study their properties',
+      'Analyzed the data generated to study their non-linear properties.',
     ],
+    subpoints:[]
+  },
+  {
+    company: 'University of Luxembourg, Theoretical Physics Group',
+    position: 'Visiting Researcher',
+    link: 'https://wwwen.uni.lu/research/fstc/physics_and_materials_science_research_unit/research_areas/theory_of_mesoscopic_systems',
+    daterange: 'May 2016 – July 2016',
+    points: [
+      'Performed analytical calculations in Quantum mechanics(Condensed matter theory) to study the band structures of Optomechanical Graphene Lattice.',
+      'Computationally evaluated and visualized the band structure in MATLAB and python..',
+    ],
+    subpoints:[]
   },
 ];
 

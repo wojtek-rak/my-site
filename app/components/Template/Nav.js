@@ -20,7 +20,7 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Sourabh. I like building things and enjoy extracting meaning from data.
+      <p>Hi, I&apos;m Sourabh. I like building things and analyzing data.
       </p>
       <ul className="actions">
         <li>
