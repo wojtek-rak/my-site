@@ -1,4 +1,7 @@
-## [mldangelo.com](http://mldangelo.com) and simplified [mldangelo.github.io/personal-site](https://mldangelo.github.io/personal-site/)
+This is my personlan website built in javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies. 
+
+
+<!-- ## [mldangelo.com](http://mldangelo.com) and simplified [mldangelo.github.io/personal-site](https://mldangelo.github.io/personal-site/)
 
 My personal website. Easily modifiable, and built using modern javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies.
 
@@ -73,4 +76,4 @@ Please feel free to reach out to me by filing an issue or at help@mldangelo.com 
 - Template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
 
 ### License
-[MIT](https://github.com/mldangelo/personal-site/blob/master/LICENSE)
+[MIT](https://github.com/mldangelo/personal-site/blob/master/LICENSE) -->

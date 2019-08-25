@@ -9,11 +9,11 @@ const positions = [
       'Machine Learning','Software Engineering',
     ],
     subpoints:{'Machine Learning':[
-      'Worked on the problem of Table Extraction from image PDF\'s, which affected 50% of the data extraction issues.', 
+      'Worked on the problem of Table Extraction from image PDF\'s of alternative investment documents, which affected 50% of the data extraction issues.', 
       'Developed the pipeline to subsample and preprocess data from a 120GB opensource dataset.', 
       'Trained Faster-rcc and Yolov3 object detection algorithms on the subsampled dataset combined with in-house labelled data.',
       'Achieved a test accuracy of 86% for the Yolo model and 84% on the Faster-rcc model for models trained on subsampled data.',
-      'Created a microservice using Flask and Python to visually inspect the two models.',
+      'Created a microservice using Flask and Python to visually test the models for Hedge fund factsheets and account statements',
     ], 
 
       'Software Engineering':[
