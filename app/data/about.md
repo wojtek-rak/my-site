@@ -1,7 +1,18 @@
 
-#### Intro
-I am a graduate student at Columbia University studying different areas of machine learning and software development. In my previous life(undergrad), I enjoyed working on projects in theoretical and computational physics. 
-<br>
+<!-- #### Intro -->
+
+My name is Sourabh and I am graduate student at Columbia University in New York city. 
+<br />
+<br />
+I pursued my undergraduate degree at IIT Bombay in Mumbai, India. During my time there, I worked on a number of interesting projects in academia, specifically in Theoretical and Computational Physics and also in Computational Neuroscience. I moved to US in 2018 for Grad school at Columbia where I've been learning different aspects of Software Engineering and Machine Learning. 
+<br />
+<br />
+I've spent my time this summer interning at a Fintech startup in midtown called Canoe Intelligence, where I developed algorithms for automatic data extraction from alternative investment documents. Specifically, I worked on implementing state of the art machine learning algorithms to extract data from Hedge Fund, Private Equity and Venture Capital documents. While here, I also got experience working as a full stack developer from Vue.js to PHP to MySql.
+<br />
+<br />
+When I'm not building things, I spend my time playing basketball and dancing to Dembow and Salsa. Also, I am a history nerd and spend way too much time watching civil war and world war documentaries. 
+
+
 <!-- I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently. -->
 <!-- <br><br>
 #### Currently

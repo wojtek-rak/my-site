@@ -2,7 +2,7 @@
 const positions = [
   {
     company: 'Canoe Intelligence',
-    position: 'Software Engineering/ Machine Learning Intern',
+    position: 'Software Development/ Machine Learning Intern',
     link: 'https://www.canoesoftware.com/',
     daterange: 'June 2019 - August 2019',
     points: [
