@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Building Reinforcement Learning Trading Agents',
     subtitle: 'RL Trading agents',
-    link: 'https://drive.google.com/file/d/1QWbsthLCY1iPuoxDoB5xAQukSUXVos3x/view?usp=sharing',
+    link: 'https://drive.google.com/file/d/10yWpG-bSE6nUt9W38Ebbd0iojJQsnAOb/view?usp=sharing',
     image: '/images/projects/rl.jpg',
     date: '2018-12-20',
     desc: 'Simulated a virtual exchange in python which maintains an order-book and keeps track of stocks and traders data.'
@@ -12,7 +12,7 @@ const data = [
   },{
     title: 'Web Application for Ride Sharing',
     subtitle: 'sparse portfolio construction',
-    link: 'https://drive.google.com/file/d/17P5_JsJtnZBhGIuAuu_WZnFU5nsrvxO3/view?usp=sharing',
+    link: 'https://drive.google.com/file/d/1c0ZVB4UjxBweahkLzl2B2t7OqK3E70yU/view?usp=sharing',
     image: '/images/projects/cloud.jpg',
     date: '2019-04-20',
     desc: 'Built a full stack web application for car-pooling purely using Amazon Web Services.'
@@ -23,7 +23,7 @@ const data = [
    {
     title: 'Style Transfer in Tensorflow',
     subtitle: 'Style transfer',
-    link: 'https://drive.google.com/file/d/1fHdYB4j0Wte6GWn5Il0AAMqDklveZy5R/view?usp=sharing',
+    link: 'https://drive.google.com/file/d/1BSktY7z-35bVZCRcLLV0lfn0r5rr9avR/view?usp=sharing',
     image: '/images/projects/style_transfer.jpg',
     date: '2018-11-20',
     desc: 'Implemented the neural style transfer algorithm which transfers the style of an image onto the content image.'
@@ -32,7 +32,7 @@ const data = [
   }, {
     title: 'Sparse Portfolio Construction',
     subtitle: 'sparse portfolio construction',
-    link: 'https://drive.google.com/file/d/1JKBD9DPs2R7gmRouC4XmLpTjJuz3vXJW/view?usp=sharing',
+    link: 'https://drive.google.com/file/d/1VNXUupKaYO8HIdxD43yULnYTFJafnNO0/view?usp=sharing',
     image: '/images/projects/sparse.jpg',
     date: '2019-03-20',
     desc: 'Developed a sparse portfolio optimization algorithm, based on the Markowitz model to construct sparse porfolios.'
