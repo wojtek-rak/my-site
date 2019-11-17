@@ -7,6 +7,7 @@ import {
 // Featured
 import Index from './views/Index';
 import About from './views/About';
+import Events from "./views/Events";
 import Projects from './views/Projects';
 import Resume from './views/Resume';
 import Stats from './views/Stats';
@@ -22,6 +23,7 @@ ReactDOM.render(
     <Switch>
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
+      <Route path="/events" component={Events} />
       <Route path="/projects" component={Projects} />
       <Route path="/stats" component={Stats} />
       <Route path="/contact" component={Contact} />
