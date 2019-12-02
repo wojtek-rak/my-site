@@ -4,24 +4,13 @@ import Helmet from 'react-helmet';
 
 import Main from '../layouts/Main';
 
-import Cell from '../components/Projects/Cell';
-import data from '../data/projects';
+import Cell from '../components/Events/Cell';
+import data from '../data/events';
 
 import ImageGallery from 'react-image-gallery';
 
 const images = [
-  {
-    original: 'https://picsum.photos/id/1018/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1018/250/150/',
-  },
-  {
-    original: 'https://picsum.photos/id/1015/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1015/250/150/',
-  },
-  {
-    original: 'https://picsum.photos/id/1019/1000/600/',
-    thumbnail: 'https://picsum.photos/id/1019/250/150/',
-  },
+
 ];
 
 const Events = () => (
@@ -36,13 +25,14 @@ const Events = () => (
             </header>
 
 
-          <ImageGallery items={images} />
+          {/*<ImageGallery items={data} />*/}
 
-            {data.map((project) => (
-                <Cell
-                    data={project}
-                    key={project.title}
-                />
+            {data.map((events) => (
+              <Cell
+                data={events}
+                key={events.title}
+              />
+
             ))}
         </article>
     </Main>
