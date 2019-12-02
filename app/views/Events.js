@@ -7,6 +7,23 @@ import Main from '../layouts/Main';
 import Cell from '../components/Projects/Cell';
 import data from '../data/projects';
 
+import ImageGallery from 'react-image-gallery';
+
+const images = [
+  {
+    original: 'https://picsum.photos/id/1018/1000/600/',
+    thumbnail: 'https://picsum.photos/id/1018/250/150/',
+  },
+  {
+    original: 'https://picsum.photos/id/1015/1000/600/',
+    thumbnail: 'https://picsum.photos/id/1015/250/150/',
+  },
+  {
+    original: 'https://picsum.photos/id/1019/1000/600/',
+    thumbnail: 'https://picsum.photos/id/1019/250/150/',
+  },
+];
+
 const Events = () => (
     <Main>
         <Helmet title="Events" />
@@ -17,6 +34,10 @@ const Events = () => (
                     <p>A selection of projects that I&apos;m not too ashamed of</p>
                 </div>
             </header>
+
+
+          <ImageGallery items={images} />
+
             {data.map((project) => (
                 <Cell
                     data={project}
