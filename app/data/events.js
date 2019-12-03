@@ -6,7 +6,7 @@ const data = [
     desc: 'Built for a social impact hackathon. Built for a social impact hackathon Built for a social impact hackathon ',
     images: [
       {
-        original: 'https://picsum.photos/id/1018/1000/600/',
+        original: '/images/gallery/UNIT_TESTING/UNIT_TESTING_1-min.jpg',
         thumbnail: 'https://picsum.photos/id/1018/250/150/',
       },
       {
