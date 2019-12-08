@@ -31,6 +31,11 @@ const About = () => (
         }}
         escapeHtml={false}
       />
+      <div className="developerStoryContent">
+        <a href="https://stackoverflow.com/story/wolix" target="_blank" className="developerStory">
+          <img src="https://i.imgur.com/hdCgM5O.png" className="developerStory developerStoryBorder"/>
+        </a>
+      </div>
     </article>
   </Main>
 );

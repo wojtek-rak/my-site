@@ -15,7 +15,7 @@ const Events = () => (
             <header>
                 <div className="title">
                     <h2><Link to="/events">Events</Link></h2>
-                    <p>A selection of projects that I&apos;m not too ashamed of</p>
+                    <p>A selection of events which I organized</p>
                 </div>
             </header>
 

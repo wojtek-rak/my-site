@@ -3,7 +3,7 @@ const data = [
     title: 'Unit Testing',
     link: 'http://localhost:7999/events',
     date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. Built for a social impact hackathon Built for a social impact hackathon ',
+    desc: 'The workshop leaded by myself about unit testing. It was hosted by PUT.NET.',
     images: [
       {
         original: 'images/gallery/UNIT_TESTING/UNIT_TESTING_1-min.png',
@@ -32,7 +32,7 @@ const data = [
     title: 'ASP.NET Core MVC - Introduction',
     link: 'http://localhost:7999/events',
     date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. ',
+    desc: 'The workshop leaded by myself about ASP.NET Core MVC. It was hosted by PUT.NET.',
     images: [
       {
         original: 'images/gallery/MVC/MVC_4-min.png',
@@ -56,7 +56,7 @@ const data = [
     title: 'Testing in unity',
     link: 'http://localhost:7999/events',
     date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. ',
+    desc: 'The workshop leaded by myself about testing in Unity and making test easier. It was hosted by PUT.NET.',
     images: [
       {
         original: 'images/gallery/UNITY_TESTING/UNITY_TESTING_1-min.jpg',
@@ -80,7 +80,7 @@ const data = [
     title: 'Game testing',
     link: 'http://localhost:7999/events',
     date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. ',
+    desc: 'My short lecture about game testing.',
     images: [
       {
         original: 'images/gallery/GAMETESTING/GAMETESTING_1-min.jpg',

@@ -1,9 +1,9 @@
 const degrees = [
   {
     school: 'Poznan University of Technology',
-    degree: 'currently',
+    degree: 'B.S. Computer Science',
     link: 'https://www.put.poznan.pl/',
-    year: 2021,
+    year: 'currently',
   }
 ];
 

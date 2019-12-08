@@ -6,8 +6,9 @@ const positions = [
     link: 'https://gfieast.com/pl/',
     daterange: 'December 2018 - Present',
     points: [
-      'TBD.',
-      'TBD.',
+      'Development and maintaining ASP.NET Core apps (EF Core, Dapper, UI for Kendo).',
+      'Maintaining WinForms app.',
+      'Create solutions using Power Apps, Microsoft flow, Sharepoint and Onedrive .',
     ],
   }, {
     company: 'DomData',
@@ -15,7 +16,7 @@ const positions = [
     link: 'https://domdata.pl/',
     daterange: 'October 2018 - December 2018',
     points: [
-      'TBD.',
+      'Maintaining internet applications ASP.NET.',
     ],
   }, {
     company: 'Microsoft',
@@ -23,7 +24,7 @@ const positions = [
     link: 'https://studentpartners.microsoft.com/pl-pl',
     daterange: 'August 2019 - Present',
     points: [
-      'TBD.',
+      'Organizing events and promoting Microsoft technology.',
     ],
   }, {
     company: 'put.net',
@@ -31,7 +32,7 @@ const positions = [
     link: 'https://www.facebook.com/put.net/',
     daterange: 'April 2018 - Present',
     points: [
-      'TBD.',
+      'Organizing events and management assistance.',
     ],
   },
 ];

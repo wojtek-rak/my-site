@@ -107,14 +107,14 @@ export const skills = [
     category: ['Frameworks', '.NET', 'Web Development'],
   },
   {
-      title: 'C#',
-      compentency: 5,
-      category: ['Languages', '.NET'],
+    title: 'C#',
+    compentency: 5,
+    category: ['Languages', '.NET'],
   },
   {
     title: 'Unit Tests',
     compentency: 4,
-    category: ['Tools'],
+    category: ['Other'],
   },
   {
     title: 'WinForms',
@@ -159,6 +159,11 @@ export const skills = [
   {
     title: 'Public Speaking',
     compentency: 3,
+    category: ['Other'],
+  },
+  {
+    title: 'DDD',
+    compentency: 1,
     category: ['Other'],
   },
 

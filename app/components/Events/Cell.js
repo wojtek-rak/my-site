@@ -1,8 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
-import url from 'url';
-import ImageGallery from "react-image-gallery";
+import ImageGallery from 'react-image-gallery';
 
 const Cell = ({ data }) => (
   <div className="cell-container">
@@ -11,10 +10,11 @@ const Cell = ({ data }) => (
         <h3><a href={data.link}>{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time>
       </header>
+      {/* eslint-disable-next-line react/prop-types */}
       <ImageGallery items={data.images} />
-      {/*<div className="description">*/}
-        {/*<p>{data.desc}</p>*/}
-      {/*</div>*/}
+      <div className="descriptionEvent">
+        <p>{data.desc}</p>
+      </div>
     </article>
   </div>
 );

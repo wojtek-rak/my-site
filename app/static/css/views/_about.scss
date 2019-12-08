@@ -5,4 +5,18 @@
   p {
     margin: auto;
   }
+  .developerStory{
+    width: 100%;
+    opacity: 1;
+  }
+  .developerStory :hover{
+    width: 100%;
+    opacity: 0.8;
+  }
+  .developerStoryBorder{
+    border: medium solid black;
+  }
+  .developerStoryContent{
+    //padding: 50px;
+  }
 }
