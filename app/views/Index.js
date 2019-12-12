@@ -17,10 +17,9 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/events">events</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
+        view <Link to="/stats">statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/wojtek-rak/my-site">here</a>, forked from <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>
   </Main>
 );
