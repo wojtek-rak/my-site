@@ -4,7 +4,7 @@ const awards = [
     company: 'TomTom',
     position: 'Hackathon on Poznan University of Technology',
     link: 'https://www.facebook.com/events/691802831272708/',
-    daterange: 'December 2018 - Present',
+    daterange: 'December 2018',
     points: [
       '1rd Place for app displaying TomTom\'s map in AR',
     ],
