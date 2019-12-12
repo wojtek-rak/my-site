@@ -13,7 +13,8 @@ const Cell = ({ data }) => (
       {/* eslint-disable-next-line react/prop-types */}
       <ImageGallery items={data.images} />
       <div className="descriptionEvent">
-        <p>{data.desc}</p>
+        {/* eslint-disable-next-line react/style-prop-object */}
+        <p style={{whiteSpace: 'pre-line'}}>{data.desc}</p>
       </div>
     </article>
   </div>

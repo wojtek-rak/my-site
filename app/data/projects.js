@@ -10,12 +10,11 @@ const data = [
       + 'inspiration and advice and meet people with similar interests.',
   }, {
     title: 'My Old Site',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: ' '
-      + ', ',
+    subtitle: '',
+    link: 'https://wojciechrak.com',
+    image: 'https://i.imgur.com/gEf5qiL.png',
+    date: '2019-03-21',
+    desc: 'My old site made in Angular 6',
   },
 ];
 

@@ -16,21 +16,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'hi',
-  'hello',
-  'hola',
-  'you-can-email-me-at-literally-anything! Really',
-  'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'please-work-for-us',
-  'help',
-  'admin',
-  'or-I-really-like-your-website',
-  'I\'ll-stop-distracting-you-now',
+  'rak.wojtek@wp.pl',
   'thanks',
 ];
 
@@ -88,17 +74,18 @@ const Contact = () => {
         </header>
         <div className="email-at">
           <p>Feel free to get in touch. You can email me at: </p>
-          <div
-            className="inline-container"
-            style={validateText(message) ? {} : { color: 'red' }}
-            onMouseEnter={() => setIsActive(false)}
-            onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
-          >
-            <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
-              <span>{message}</span>
-              <span>@mldangelo.com</span>
-            </a>
-          </div>
+          <a href="mailto:rak.wojtek@wp.pl">rak.wojtek@wp.pl</a>
+          {/*<div*/}
+          {/*  className="inline-container"*/}
+          {/*  style={validateText(message) ? {} : { color: 'red' }}*/}
+          {/*  onMouseEnter={() => setIsActive(false)}*/}
+          {/*  onMouseLeave={() => (idx < messages.length) && setIsActive(true)}*/}
+          {/*>*/}
+          {/*  <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>*/}
+          {/*    <span>{message}</span>*/}
+          {/*    <span>@mldangelo.com</span>*/}
+          {/*  </a>*/}
+          {/*</div>*/}
         </div>
         <ul className="icons">
           {data.map((s) => (

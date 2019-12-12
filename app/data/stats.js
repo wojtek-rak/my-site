@@ -1,16 +1,16 @@
 const data = {
   age: {
     label: 'Current age',
-    value: 0,
+    value: 21,
   },
   countries: {
     label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    value: 13,
+    link: 'https://drive.google.com/open?id=1BqzTZPh0v8Nj16BHGUBDI3N0Exwxgjj0&usp=sharing',
   },
   location: {
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Poznan, PL',
   },
 };
 
