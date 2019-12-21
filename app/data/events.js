@@ -141,15 +141,15 @@ const data = [
         thumbnail: 'images/gallery/MVC/MVC_4_MINI-min.png',
       },
       {
-        original: 'images/gallery/MVC/MVC_1-min.jpg',
+        original: 'images/gallery/MVC/MVC_1-min.JPG',
         thumbnail: 'images/gallery/MVC/MVC_1_MINI-min.jpg',
       },
       {
-        original: 'images/gallery/MVC/MVC_2-min.jpg',
+        original: 'images/gallery/MVC/MVC_2-min.JPG',
         thumbnail: 'images/gallery/MVC/MVC_2_MINI-min.jpg',
       },
       {
-        original: 'images/gallery/MVC/MVC_3-min.jpg',
+        original: 'images/gallery/MVC/MVC_3-min.JPG',
         thumbnail: 'images/gallery/MVC/MVC_3_MINI-min.jpg',
       },
     ]
