@@ -1,5 +1,26 @@
 #events {
-  
+  .image-gallery {
+    width: 100%;
+    height: auto;
+  }
 
+  .image-gallery-slide img {
+    align-content: center;
+    width: auto;
+    height: auto;
+    max-height: 70vh;
+    max-width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    object-position: center center;
+  }
+
+  .image-gallery-image{
+    text-align: center;
+  }
+
+  .fullscreen .image-gallery-slide img {
+    max-height: 100vh;
+  }
 }
 
