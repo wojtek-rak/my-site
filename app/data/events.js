@@ -165,7 +165,7 @@ const data = [
         thumbnail: 'images/gallery/UNITY_TESTING/UNITY_TESTING_1_MINI-min.jpg',
     },
       {
-        original: 'images/gallery/UNITY_TESTING/UNITY_TESTING_2-min.jpg',
+        original: 'images/gallery/UNITY_TESTING/UNITY_TESTING_2-min.JPG',
         thumbnail: 'images/gallery/UNITY_TESTING/UNITY_TESTING_2_MINI-min.jpg',
       },
       {
