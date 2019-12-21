@@ -11,7 +11,7 @@ const Events = () => (
     <Main>
         <Helmet title="Events" />
 
-        <article className="post" id="projects">
+        <article className="post" id="events">
             <header>
                 <div className="title">
                     <h2><Link to="/events">Events</Link></h2>

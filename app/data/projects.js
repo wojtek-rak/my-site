@@ -11,7 +11,7 @@ const data = [
   }, {
     title: 'My Old Site',
     subtitle: '',
-    link: 'https://wojtek-rak.github.io',
+    link: 'https://wojtek-rak.github.io/OldMySite/',
     image: 'https://i.imgur.com/gEf5qiL.png',
     date: '2019-03-21',
     desc: 'My old site made in Angular 6',

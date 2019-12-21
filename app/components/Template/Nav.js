@@ -14,10 +14,8 @@ const Nav = () => (
       </Link>
       <header>
         <h2>Wojciech Rak</h2>
-        <p><a href="mailto:rak.wojtek@wp.pl">rak.wojtek@wp.pl</a></p>
       </header>
     </section>
-
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Wojciech. I like building things.
