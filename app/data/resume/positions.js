@@ -1,10 +1,29 @@
 
 const positions = [
   {
+    company: 'insys',
+    position: '.NET Developer',
+    link: 'https://insysvideotechnologies.com',
+    daterange: 'April 2020',
+    points: [
+      'Development ASP.NET MVC and ASP.NET Web API (EF).',
+    ],
+  },
+  {
+    company: 'eFitness',
+    position: '.NET Developer',
+    link: 'https://efitness.com/',
+    daterange: 'January 2020 - March 2020',
+    points: [
+      'Development ASP.NET MVC and ASP.NETCore apps (Linq to SQL).',
+      'Cloud: Azure.',
+    ],
+  },
+  {
     company: 'GFI',
     position: 'Junior .NET Developer',
     link: 'https://gfieast.com/pl/',
-    daterange: 'December 2018 - Present',
+    daterange: 'December 2018 - December 2019',
     points: [
       'Development and maintaining ASP.NET Core apps (EF Core, Dapper, UI for Kendo).',
       'Maintaining WinForms app.',
