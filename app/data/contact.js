@@ -37,11 +37,6 @@ const data = [
     label: 'Twitter',
     icon: faTwitter,
   },
-  {
-    link: 'mailto:rak.wojtek@wp.pl',
-    label: 'Email',
-    icon: faEnvelope,
-  },
 ];
 
 export default data;
