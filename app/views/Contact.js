@@ -16,7 +16,6 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'rak.wojtek@wp.pl',
   'thanks',
 ];
 
@@ -73,8 +72,7 @@ const Contact = () => {
           </div>
         </header>
         <div className="email-at">
-          <p>Feel free to get in touch. You can email me at: </p>
-          <a href="mailto:rak.wojtek@wp.pl">rak.wojtek@wp.pl</a>
+          <p>Feel free to get in touch. You can contact me at: </p>
           {/*<div*/}
           {/*  className="inline-container"*/}
           {/*  style={validateText(message) ? {} : { color: 'red' }}*/}
