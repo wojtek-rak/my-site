@@ -21,6 +21,16 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
     </article>
+    <article className="post" id="index">
+      <header>
+        <div className="title">
+          <h2><a href="https://blog.wojciechrak.com/">My blog</a></h2>
+          <p>A Programming is just more than only typing meaningless code in IDE.</p>
+        </div>
+      </header>
+      <p> Check out my {' '} <a href="https://blog.wojciechrak.com/">My blog</a>.
+      </p>
+    </article>
   </Main>
 );
 
