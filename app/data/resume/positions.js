@@ -1,7 +1,7 @@
 
 const positions = [
   {
-    company: 'insys',
+    company: 'Insys Video Technologies',
     position: '.NET Developer',
     link: 'https://insysvideotechnologies.com',
     daterange: 'April 2020',
