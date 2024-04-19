@@ -18,4 +18,4 @@ TBD
 - Cardistry
 - Frestyle
 
-#### Developer story:
+#### StackOverflow

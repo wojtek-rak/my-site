@@ -32,10 +32,10 @@ const About = () => (
         escapeHtml={false}
       />
       <div className="developerStoryContent">
-        <a href="https://stackoverflow.com/story/wolix" target="_blank" className="developerStory">
-          <img src="https://i.imgur.com/hdCgM5O.png" className="developerStory developerStoryBorder"/>
-        </a>
+      <a target='_blank' href="https://stackoverflow.com/users/9804879/wojciech-rak"><img src="https://stackoverflow.com/users/flair/9804879.png" width="208" height="58" alt="profile for Wojciech Rak at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Wojciech Rak at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></img></a>
+
       </div>
+
     </article>
   </Main>
 );

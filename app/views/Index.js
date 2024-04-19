@@ -21,7 +21,7 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
     </article>
-    <article className="post" id="index">
+    {/* <article className="post" id="index">
       <header>
         <div className="title">
           <h2><a href="https://blog.wojciechrak.com/">My blog</a></h2>
@@ -30,7 +30,7 @@ const Index = () => (
       </header>
       <p> Check out my {' '} <a href="https://blog.wojciechrak.com/">My blog</a>.
       </p>
-    </article>
+    </article> */}
   </Main>
 );
 

@@ -6,6 +6,9 @@ export const categories = [
     name: '.NET',
     color: '#515dd4',
   }, {
+    name: 'Web Development',
+    color: '#cc7b94',
+  },{
     name: 'Databases',
     color: '#3896e2',
   }, {
@@ -23,10 +26,7 @@ export const categories = [
   }, {
     name: 'Tools',
     color: '#40494e',
-  }, {
-    name: 'Web Development',
-    color: '#cc7b94',
-  },
+  }, 
 ];
 
 export const skills = [
@@ -42,11 +42,16 @@ export const skills = [
   },
   {
     title: 'Azure',
-    compentency: 3,
+    compentency: 4,
     category: ['Web Development', 'Tools'],
   },
   {
     title: 'T-SQL',
+    compentency: 4,
+    category: ['Web Development', 'Databases'],
+  },
+  {
+    title: 'PostgreSQL',
     compentency: 3,
     category: ['Web Development', 'Databases'],
   },
@@ -54,11 +59,6 @@ export const skills = [
     title: 'Django',
     compentency: 2,
     category: ['Web Development', 'Frameworks'],
-  },
-  {
-    title: 'Git',
-    compentency: 4,
-    category: ['Tools'],
   },
   {
     title: 'Azure DevOps',
@@ -103,7 +103,7 @@ export const skills = [
   },
   {
     title: 'ASP.NET Core',
-    compentency: 4,
+    compentency: 5,
     category: ['Frameworks', '.NET', 'Web Development'],
   },
   {
@@ -113,7 +113,7 @@ export const skills = [
   },
   {
     title: 'Unit Tests',
-    compentency: 4,
+    compentency: 5,
     category: ['Other'],
   },
   {
@@ -127,18 +127,23 @@ export const skills = [
     category: ['Frameworks', 'Web Development'],
   },
   {
+    title: 'Git',
+    compentency: 5,
+    category: ['Tools'],
+  },
+  {
     title: 'Design Patterns',
-    compentency: 2,
+    compentency: 4,
     category: ['Other'],
   },
   {
     title: 'System Architecture',
-    compentency: 2,
+    compentency: 3,
     category: ['Other'],
   },
   {
     title: 'CI / CD',
-    compentency: 2,
+    compentency: 3,
     category: ['Tools'],
   },
   {
@@ -148,12 +153,12 @@ export const skills = [
   },
   {
     title: 'Visual Studio',
-    compentency: 3,
+    compentency: 4,
     category: ['Tools'],
   },
   {
     title: 'Entity Framework',
-    compentency: 3,
+    compentency: 4,
     category: ['Frameworks', '.NET'],
   },
   {

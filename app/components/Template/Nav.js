@@ -19,8 +19,7 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Wojciech. I like building things.
-            I am student of IT at <a href="https://www.put.poznan.pl/en/">Poznan University of Technogy</a>, I'm currently working as .NET Developer at <a href="https://insysvideotechnologies.com/">insys</a>. Before insys I was .Net developer at eFitness and
-            Junior .NET Developer at GFI East.
+            I am a graduate of IT studies at the <a href="https://www.put.poznan.pl/en/">Poznan University of Technogy</a>, I'm currently working as Senior .NET Developer.
       </p>
       <ul className="actions">
         <li>
