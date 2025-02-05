@@ -2,9 +2,10 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import Video from '../layouts/Video';
 
 const Index = () => (
-  <Main>
+  <Video>
     <article className="post" id="index">
       <header>
         <div className="title">
@@ -31,7 +32,7 @@ const Index = () => (
       <p> Check out my {' '} <a href="https://blog.wojciechrak.com/">My blog</a>.
       </p>
     </article> */}
-  </Main>
+  </Video>
 );
 
 export default Index;
