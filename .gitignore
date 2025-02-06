@@ -40,7 +40,7 @@ dist/
 tmp/
 node_modules/
 node_modules/
-
+node_modules/*
 # OSX
 .DS_Store
 
