@@ -77,23 +77,7 @@ const positions = [
     points: [
       'Maintaining internet applications ASP.NET.',
     ],
-  }, {
-    company: 'Microsoft',
-    position: 'Microsoft Student Partner',
-    link: 'https://studentpartners.microsoft.com/pl-pl',
-    daterange: 'August 2019 - Present',
-    points: [
-      'Organizing events and promoting Microsoft technology.',
-    ],
-  }, {
-    company: 'put.net',
-    position: 'Vice chairman',
-    link: 'https://www.facebook.com/put.net/',
-    daterange: 'April 2018 - Present',
-    points: [
-      'Organizing events and management assistance.',
-    ],
-  },
+  }, 
 ];
 
 export default positions;

@@ -1,8 +1,8 @@
 
 #### Intro
-I'm .NET Developer at Insys Video Technologies and Microsoft Student Partner Digital Region Lead
+I'm .NET Developer self employed with almost 7 years of experience in development
 <br>
-IT student at Poznań University Of Technology, passionate of web development. Currently social media manager and vice chairman of put .NET group.
+I was IT student at Poznań University Of Technology, passionate of web development.
 <br><br>
 <!--
 #### Currently
