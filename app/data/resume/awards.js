@@ -1,6 +1,22 @@
 
 const awards = [
   {
+    company: 'Microsoft',
+    position: 'Microsoft Student Partner',
+    link: 'https://studentpartners.microsoft.com/pl-pl',
+    daterange: 'August 2019 - Present',
+    points: [
+      'Organizing events and promoting Microsoft technology.',
+    ],
+  }, {
+    company: 'put.net',
+    position: 'Vice chairman',
+    link: 'https://www.facebook.com/put.net/',
+    daterange: 'April 2018 - Present',
+    points: [
+      'Organizing events and management assistance.',
+    ],
+  },{
     company: 'TomTom',
     position: 'Hackathon on Poznan University of Technology',
     link: 'https://www.facebook.com/events/691802831272708/',

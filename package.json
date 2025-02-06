@@ -15,7 +15,6 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@babel/node": "^7.5.5",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/plugin-proposal-json-strings": "^7.2.0",
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
@@ -46,7 +45,6 @@
     "html-webpack-plugin": "^3.2.0",
     "mini-css-extract-plugin": "^0.8.0",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.1",
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
     "raw-loader": "^3.1.0",
@@ -75,6 +73,7 @@
   "devDependencies": {
     "@babel/cli": "^7.26.4",
     "@babel/core": "^7.26.7",
+    "@babel/node": "^7.26.0",
     "@babel/preset-env": "^7.26.7",
     "babel-eslint": "^10.0.2",
     "chai": "^4.2.0",
@@ -86,6 +85,7 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^2.0.1",
     "mocha": "^6.2.0",
+    "nodemon": "^1.19.4",
     "puppeteer": "^1.19.0",
     "sass": "^1.83.4"
   }
